@@ -16,6 +16,7 @@ Tietokanta pitäisi olla jossain palvelimella, että tietoihin pääsisi kotoa, 
 
 Työstetään asiakkaalle yllämainittu järjestelmä. Järjestelmä koostuu kolmesta osasta: Tietokanta, Webserveri ja erillinen ohjelma backendille. Tietokantaan tallennetaan työntekijät, asiakkaat, tilaukset ja työmääräykset, sekä kirjautumistiedot. Webserverillä hostataan yksinkertaisia kotisivuja, jonne työntekijä kirjautuu kirjaamaan tunnit. Tehdään joko C# tai Javalla backend ohjelma, jolla voidaan muokata tietokannassa olevaa dataa.
 
+
 ## Sidosryhmät
 
 ![](/Kuvat/Sidosryhmat.png)
@@ -67,3 +68,7 @@ MySQL tietokanta, Websivu HTML-CSS-Java, Sovellus C# tai Java. Työntekijä lis�
 
 ### Laitteisto
 [Raspberry Pi Zero W](https://www.raspberrypi.org/blog/raspberry-pi-zero-w-joins-family/) pitäisi pystyä hoitamaan ei julkista palvelua yhdestä neljälle henkilölle, joka sisältää MySQL tietokannan ja kevyet websivut. Websivuilla työntekijät voivat lisätä, kun taas työnantajan sovellus pyörii itsenäisesti työnantajan koneella käskyttäen zeron tietokantaa.
+
+## Prototyyppi
+
+FluidUI:lla tehty yksinkertainen  [prototyyppi](https://www.fluidui.com/editor/live/livePreview/cF9kcEVuZmNrTEN5ZnFBNzllV2lRVFZ6YTR3cmZ2SFVzRg==)
