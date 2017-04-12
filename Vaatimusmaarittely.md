@@ -49,8 +49,8 @@ Työstetään asiakkaalle yllämainittu järjestelmä. Järjestelmä koostuu kol
 |TV002| Työntekijät voivat itse lisätä ja päivitellä työtuntejaan |
 |TV003| Työnantaja voi poistaa Asiakkaita, Työntekijöitä, Tilauksia ja Työmääräyksiä |
 |TV004| Työnantaja voi lisätä Asiakkaita, Työntekijöitä, Tilauksia ja Työmääräyksiä |
-|TV004| Työnantaja voi muokata Asiakkaita, Työntekijöitä, Tilauksia ja Työmääräyksiä |
-|TV004| Työnantaja voi luoda uuden salasanan unohtuneen tilalle työntekijälle |
+|TV005| Työnantaja voi muokata Asiakkaita, Työntekijöitä, Tilauksia ja Työmääräyksiä |
+|TV006| Työnantaja voi luoda uuden salasanan unohtuneen tilalle työntekijälle |
 
 
 ## Ei-toiminnalliset vaatimukset
