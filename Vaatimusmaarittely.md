@@ -23,24 +23,24 @@ Työstetään asiakkaalle yllämainittu järjestelmä. Järjestelmä koostuu kol
 ## Käyttötapaukset (Toimii myös testitapauksena)
 
 ### Työnantaja
-[Työnantaja lisää työntekijän](ta_lisaa_tt)  
-[Työnantaja lisää asiakkaan](ta_lisaa_as)  
-[Työnantaja lisää tilauksen](ta_lisaa_til)  
-[Työnantaja lisää työmääräyksen](ta_lisaa_tyo)
+[Työnantaja lisää työntekijän](ta_lisaa_tt.md)  
+[Työnantaja lisää asiakkaan](ta_lisaa_as.md)  
+[Työnantaja lisää tilauksen](ta_lisaa_til.md)  
+[Työnantaja lisää työmääräyksen](ta_lisaa_tyo.md)
 
-[Työnantaja poistaa työntekijän](ta_poistaa_tt)  
-[Työnantaja poistaa asiakkaan](ta_poistaa_as)  
-[Työnantaja poistaa tilauksen](ta_poistaa_til)  
-[Työnantaja poistaa työmääräyksen](ta_poistaa_tyo)  
+[Työnantaja poistaa työntekijän](ta_poistaa_tt.md)  
+[Työnantaja poistaa asiakkaan](ta_poistaa_as.md)  
+[Työnantaja poistaa tilauksen](ta_poistaa_til.md)  
+[Työnantaja poistaa työmääräyksen](ta_poistaa_tyo.md)  
 
-[Työnantaja muokkaa työntekijän](ta_muokkaa_tt)  
-[Työnantaja muokkaa asiakkaan](ta_muokkaa_as)  
-[Työnantaja muokkaa tilauksen](ta_muokkaa_til)  
-[Työnantaja muokkaa työmääräyksen](ta_muokkaa_tyo)
+[Työnantaja muokkaa työntekijän](ta_muokkaa_tt.md)  
+[Työnantaja muokkaa asiakkaan](ta_muokkaa_as.md)  
+[Työnantaja muokkaa tilauksen](ta_muokkaa_til.md)  
+[Työnantaja muokkaa työmääräyksen](ta_muokkaa_tyo.md)
 
 ### Työntekijä
-[Työntekijä ilmoittaa tunnit](tt_ilmoittaa_tunnit)  
-[Työntekijä muokkaa tunteja](tt_muokkaa_tunnit)  
+[Työntekijä ilmoittaa tunnit](tt_ilmoittaa_tunnit.md)  
+[Työntekijä muokkaa tunteja](tt_muokkaa_tunnit.md)  
 
 ## Toiminnalliset vaatimukset
 | Id | Vaatimus|
